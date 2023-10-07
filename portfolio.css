@@ -1,0 +1,28 @@
+/* variables declared here - these are the colors for our pages, as well as the font stacks and sizes. */
+:root {
+    --black: #F2E8DF;
+    --dkblue: #F28585;
+    --plum: #F2B263;
+    --hotmag: #86A69D;
+    --magenta: #F2C6C2;
+    --aqua: #86fbfb;
+    --white: #f7f8fa;
+    --font-size: 1.3rem;
+    --mono: "Lato", monospace;
+    --sans: "Playfair Display", serif;
+}
+/* border box model: https://css-tricks.com/box-sizing/ */
+html {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: var(--sans);
+}
