@@ -1,12 +1,12 @@
 /* variables declared here - these are the colors for our pages, as well as the font stacks and sizes. */
 :root {
-    --black: #F2E8DF;
-    --dkblue: #F28585;
-    --plum: #F2B263;
-    --hotmag: #86A69D;
-    --magenta: #F2C6C2;
-    --aqua: #86fbfb;
-    --white: #f7f8fa;
+    --dawnpink: #F2E8DF;
+    --ltcoral: #F28585;
+    --apricot: #F2B263;
+    --cascade: #86A69D;
+    --tearose: #F2C6C2;
+    --tronblue: #86fbfb;
+    --whitelilac: #f7f8fa;
     --font-size: 1.3rem;
     --mono: "Lato", monospace;
     --sans: "Playfair Display", serif;
